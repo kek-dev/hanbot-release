@@ -1,0 +1,2 @@
+# hanbot-release
+Shashou shards
