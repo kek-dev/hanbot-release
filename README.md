@@ -1,2 +1,2 @@
 # hanbot-release
-Shashou shards\nThis repo just hosts hanbot built shards
+Shashou shards. This repo just hosts hanbot built shards
